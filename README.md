@@ -1,3 +1,10 @@
+---
+name: spring swagger、springfoxを使ってみる
+number: 256
+wip: true
+---
+
+https://www.qoosky.io/techs/3cc94466c8
 https://qiita.com/disc99/items/37228f5d687ad2969aa2
 
 # 設定
