@@ -5,8 +5,8 @@ wip: true
 ---
 
 ## 参考
-https://www.qoosky.io/techs/3cc94466c8
-https://qiita.com/disc99/items/37228f5d687ad2969aa2
+- https://www.qoosky.io/techs/3cc94466c8
+- https://qiita.com/disc99/items/37228f5d687ad2969aa2
 
 # 設定
 ## 1.spring new project
